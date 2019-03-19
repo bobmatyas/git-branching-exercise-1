@@ -10,4 +10,6 @@ body {
 
 h1 {
   border-bottom: 3px solid #eee;
+  color: red;
 }
+
